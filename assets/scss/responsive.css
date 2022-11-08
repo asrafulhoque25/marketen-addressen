@@ -1,0 +1,140 @@
+/**
+ * @Main responsive file for (Project Name)
+ * @project     - Project Name
+ * @created_at -
+ * @modified_by -
+ */
+@media (max-width: 1200px) {
+  .banner .banner-row .banner-title {
+    font-size: 30px; }
+
+  .adressen-block .section-header .title {
+    font-size: 28px; } }
+@media (max-width: 991px) {
+  body p {
+    font-size: 14px !important;
+    line-height: 1.6; }
+
+  .menu-area {
+    margin: 20px 0 0 0;
+    padding-bottom: 20px !important; }
+    .menu-area .menu {
+      margin-top: 30px; }
+      .menu-area .menu a.nav-link {
+        padding: 15px 0 !important; }
+
+  .navbar-toggler {
+    padding: 0; }
+    .navbar-toggler:focus {
+      box-shadow: none; }
+
+  .banner .banner-row .banner-title {
+    font-size: 23px; }
+
+  .feature .section-header .title {
+    font-size: 23px; }
+
+  .feature .feature-grid {
+    grid-gap: 20px; }
+
+  .adressen-block .section-header .title {
+    font-size: 23px; }
+
+  .section-header .title {
+    font-size: 28px; }
+
+  .criteria-description .criteria-content .title {
+    font-size: 23px; }
+
+  .newsletter .newsletter-content .newsletter-title {
+    font-size: 23px; }
+
+  .btn-submit {
+    font-size: 14px; }
+
+  .newsletter .newsletter-content .form-control {
+    font-size: 12px; }
+
+  .criteria-table .table-wrapper table.table {
+    table-layout: auto; }
+
+  .section-padding {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin: 0 15px; }
+
+  .footer {
+    padding: 0 15px; } }
+@media (max-width: 767px) {
+  .banner-content {
+    padding-top: 60px; }
+
+  .feature .feature-grid .grid-item .feature-content {
+    --max-width: 220px;
+    font-size: 16px;
+    text-align: left !important; }
+
+  .newsletter .newsletter-content .form-control {
+    font-size: 10px; }
+
+  .newsletter-img {
+    margin-bottom: 30px; }
+
+  .criteria-img {
+    margin-top: 30px; }
+
+  .adressen-block-img {
+    margin-top: 30px; }
+
+  .add-to-buy,
+  .btn.btn-success {
+    margin-bottom: 30px; }
+
+  .adressen-criteria .add-to-buy,
+  .adressen-criteria .btn.btn-success {
+    margin-bottom: 0; }
+
+  .section-header {
+    margin-bottom: 30px !important; }
+    .section-header .title {
+      margin-bottom: 30px !important; }
+
+  ul#pills-tab {
+    justify-content: space-evenly !important;
+    margin: 10px; }
+
+  .page-banner .page-banner-title {
+    font-size: 26px; }
+
+  .criteria-right-panel .summary-card .summary-card-title {
+    font-size: 22px; }
+
+  .selection-criteria {
+    padding-top: 60px;
+    padding-bottom: 10px; } }
+@media (max-width: 575px) {
+  .banner .banner-row .banner-title {
+    font-size: 21px; }
+
+  .section-header .title {
+    font-size: 23px;
+    text-align: left; }
+
+  .criteria-description .criteria-content .title {
+    font-size: 19px; }
+
+  .footer-widget {
+    text-align: left; }
+
+  .newsletter .newsletter-content .newsletter-title {
+    font-size: 21px; }
+
+  .adressen-block .feature .section-header .title {
+    font-size: 21px; }
+  .adressen-block .section-header .title {
+    font-size: 21px; }
+
+  .feature .section-header .title {
+    font-size: 21px; } }
+
+/*# sourceMappingURL=responsive.css.map */
